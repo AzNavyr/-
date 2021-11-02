@@ -1,0 +1,7 @@
+ru\netology\stats\StatsService.class
+ru\netology\stats\SalesAboveAverage.class
+ru\netology\stats\MonthNumberMaxSale.class
+ru\netology\stats\TotalOfSales.class
+ru\netology\stats\AverageAmountOfSales.class
+ru\netology\stats\MonthNumberMinSale.class
+ru\netology\stats\SalesBelowAverage.class
